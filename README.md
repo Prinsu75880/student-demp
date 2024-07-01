@@ -1,4 +1,4 @@
 # student-demp
 This is my first repository
 <br>
-Author - Prinsu Pal
+Author - Prinsu Pal(prinsu)
